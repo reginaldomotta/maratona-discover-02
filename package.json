@@ -1,0 +1,20 @@
+{
+  "name": "maratona-discover-02",
+  "version": "1.0.0",
+  "description": "Freelance Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reginaldomotta/maratona-discover-02.git"
+  },
+  "keywords": [],
+  "author": "Reginaldo Motta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reginaldomotta/maratona-discover-02/issues"
+  },
+  "homepage": "https://github.com/reginaldomotta/maratona-discover-02#readme"
+}
